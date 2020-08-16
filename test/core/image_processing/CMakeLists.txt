@@ -32,6 +32,7 @@ foreach(_name
   simple_kernels
   harris
   hessian
+  histogram_matching
   box_filter
   median_filter
   sobel_scharr)
